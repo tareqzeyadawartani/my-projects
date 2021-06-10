@@ -1,0 +1,24 @@
+  body{
+    background-image: url("mountain.jpg");
+  }
+  form{
+    background-color: #333333;
+    border-radius: 25px;
+    width: 350px;
+    height: 420px;
+    margin-left: 560px;
+  }
+  .input-groub{
+       margin-bottom:15px;
+       margin-left: 20px;
+  }
+  #log{
+  	margin-left: 150px;
+  	color: white;
+  }
+  #gen{
+  	color:white;
+  }
+  .lrt{
+  	padding-left:40px;}
+  
